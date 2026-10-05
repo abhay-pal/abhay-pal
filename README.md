@@ -1,50 +1,88 @@
 <div align="center">
 
-# 👋 Hi, I'm Abhay Pal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1D4ED8,100:0EA5E9&text=ABHAY%20PAL&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Automation%20%26%20Product%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-### Data Analyst • Business Analyst • Automation & Product Builder
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+data+into+decisions.;Turning+business+problems+into+products.;Building+dashboards%2C+automation%2C+ERP%2C+POS+%26+web+apps." alt="Typing SVG" />
+</a>
 
-**I turn business problems into dashboards, automations, workflows and usable software.**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pal-analyst/)
-[![GitHub](https://img.shields.io/badge/GitHub-abhay--pal-181717?style=for-the-badge&logo=github)](https://github.com/abhay-pal)
-[![TriNova Tech](https://img.shields.io/badge/Freelance-TriNova%20Tech-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/abhay-pal/trinova_tech)
+[![GitHub](https://img.shields.io/badge/GitHub-abhay--pal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay-pal)
+[![TriNova Tech](https://img.shields.io/badge/TriNova%20Tech-Build.%20Automate.%20Scale.-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/abhay-pal/trinova_tech)
+![Profile Views](https://komarev.com/ghpvc/?username=abhay-pal&style=for-the-badge&color=2563eb)
 
 </div>
 
 ---
 
-## 🧭 What I Do
+## 👨‍💼 About Me
+
+I am a **Data Analyst & Business Analyst with 8+ years of experience** across analytics, operations, logistics, product, process improvement and business transformation.
+
+My strength is not limited to creating reports. I work end-to-end:
+
+**Understand the business problem → analyze the data/process → define the solution → build the dashboard, automation or software → validate through UAT → measure business impact.**
+
+Alongside analytics and BA work, I build practical business software through **TriNova Tech** — including **POS, ERP, CRM, billing, automation, dashboards, internal tools and modern web applications**.
+
+---
+
+## ✨ Business Impact
+
+<div align="center">
+
+| 🚀 Impact | 📈 Result |
+|:--|:--|
+| Reporting Automation | **85+ reports automated** |
+| Manual Effort Reduction | **~45 hours/day saved** |
+| Invoice Accuracy | **98%** |
+| Operational Compliance | **+40% improvement** |
+| Analytics + BA Experience | **8+ years** |
+
+</div>
+
+---
+
+## 🎯 My Core Identity
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 📊 Data & Business Analytics
-- Business & operational analysis
-- KPI / KRA framework design
-- Executive & CEO dashboards
-- SQL-based deep-dive analysis
-- Root cause analysis & process improvement
-- Customer, sales & logistics analytics
-- Power BI / Tableau / Looker Studio reporting
-- Excel, Power Query & reporting automation
-- Requirement gathering, BRD, user stories & UAT
+### 📊 Data Analyst
+
+SQL deep dives  
+Python analysis  
+Executive dashboards  
+KPI tracking  
+RCA & insights  
+Sales / Ops analytics  
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 💻 Freelance Development — TriNova Tech
-- Custom business web applications
-- POS & billing systems
-- ERP solutions
-- CRM & lead-management tools
-- Inventory & GRN workflows
-- Business automation
-- Analytics platforms
-- Admin panels & role-based access
-- API integrations
-- Responsive websites & internal tools
+### 🧩 Business Analyst
+
+Requirement discovery  
+BRD / FRD / SRS  
+User stories & AC  
+Process mapping  
+UAT / SIT / RTM  
+Stakeholder management  
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 💻 Solution Builder
+
+Business automation  
+POS / ERP / CRM  
+Internal web apps  
+Role-based systems  
+API integrations  
+Analytics products  
 
 </td>
 </tr>
@@ -52,72 +90,103 @@
 
 ---
 
-## ⚡ My Working Style
+## 🧠 How I Solve Problems
 
-**Business Problem → Requirement Discovery → Data / Process Analysis → Solution Design → Dashboard / Automation / Web App / ERP / POS → UAT + Deployment → Business Impact**
+<div align="center">
 
-> I like working at the intersection of **data, business processes and technology** — not just reporting what happened, but building solutions that help teams act on it.
+**Business Problem**  
+↓  
+**Requirement Discovery**  
+↓  
+**Data + Process Analysis**  
+↓  
+**Root Cause / Opportunity Identification**  
+↓  
+**Solution Design**  
+↓  
+**Dashboard • Automation • ERP • POS • Web App**  
+↓  
+**UAT + Deployment**  
+↓  
+**Business Impact**
+
+</div>
 
 ---
 
-## 🛠️ Analytics & BA Stack
+## 🛠️ Analytics & Business Analysis Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" />
-</p>
+<div align="center">
 
-| Area | Tools & Skills |
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&perline=6" />
+
+<br/><br/>
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-0F172A?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20RLS-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+![Tableau](https://img.shields.io/badge/Tableau-LOD-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboards-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Power%20Query%20%7C%20Pivot-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+| Area | Expertise |
 |---|---|
 | **Analytics** | SQL, Python, Pandas, NumPy, Advanced Excel, Power Query, Pivot |
-| **BI & Visualization** | Power BI, Tableau, Looker Studio, Qlik Sense |
+| **BI** | Power BI, Tableau, Looker Studio, Qlik Sense |
 | **Business Analysis** | BRD, FRD, SRS, User Stories, Acceptance Criteria, RTM, UAT, SIT |
-| **Process & Delivery** | Agile, Scrum, Jira, Confluence, Stakeholder Management, RCA |
-| **Automation** | Python Automation, Apps Script, VBA, Power Automate |
+| **Delivery** | Agile, Scrum, Jira, Confluence, Stakeholder Management |
+| **Automation** | Python, VBA, Apps Script, Power Automate |
 | **Data Platforms** | Athena / Presto, MySQL, SQL Server |
-| **Product Thinking** | KPI design, workflow mapping, role-based systems, operational dashboards |
+| **Decision Making** | KPI/KRA design, RCA, workflow mapping, process improvement |
 
 ---
 
-## 🚀 Development & Automation Stack
+## ⚙️ Development & Automation Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,python,github,vercel" />
-</p>
+<div align="center">
 
-I also build practical software for businesses through **TriNova Tech**.
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,python,git,github,vercel&perline=10" />
 
-**Solutions:** POS · ERP · CRM · Billing · Inventory · Dashboards · Automation · Web Apps · Business Websites · Internal Tools
+<br/><br/>
+
+![POS](https://img.shields.io/badge/POS-Custom%20Business%20Systems-1D4ED8?style=flat-square)
+![ERP](https://img.shields.io/badge/ERP-Operations%20%26%20Billing-0F766E?style=flat-square)
+![CRM](https://img.shields.io/badge/CRM-Lead%20%26%20Customer%20Workflow-7C3AED?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Python%20%7C%20APIs-EA580C?style=flat-square)
+![Web Apps](https://img.shields.io/badge/Web%20Apps-Responsive%20Business%20Tools-0369A1?style=flat-square)
+
+</div>
 
 ---
 
-# 🌟 Featured Analytics Projects
+# 📊 Featured Analytics Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛒 Blinkit Sales Analysis
-**Sales Performance & Business Intelligence Dashboard**
+**Sales Performance & BI Dashboard**
 
-- Sales KPIs & trend analysis
-- City/category performance
-- Product-level insights
-- Interactive business filters
+Business-focused dashboard covering sales KPIs, category performance, city trends and product insights.
 
-🔗 [View Repository](https://github.com/abhay-pal/blinkit-sales-analysis)
+**Focus:** Sales · Customer · Category · KPI Analytics
+
+🔗 [Explore Project](https://github.com/abhay-pal/blinkit-sales-analysis)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚚 Employee Performance — Logistics
-**Operational Performance Dashboard**
+**Operational Performance Intelligence**
 
-- Productivity analysis
-- SLA monitoring
-- Employee performance
-- Logistics KPIs
+A logistics performance dashboard focused on SLA, productivity, employee performance and operational visibility.
 
-🔗 [View Repository](https://github.com/abhay-pal/employee-performance-logistics-dashboard)
+**Focus:** SLA · Productivity · Operations · Performance
+
+🔗 [Explore Project](https://github.com/abhay-pal/employee-performance-logistics-dashboard)
 
 </td>
 </tr>
@@ -126,53 +195,40 @@ I also build practical software for businesses through **TriNova Tech**.
 <td width="50%" valign="top">
 
 ### 🧠 Animall 360 Analysis
-**360° Product & Business Analysis**
+**360° Business & Product Intelligence**
 
-- Business health view
-- Customer & operational analysis
-- Decision-focused dashboards
-- Management insights
+A management-level view designed to connect customer, business and operational signals for faster decision making.
 
-🔗 [View Repository](https://github.com/abhay-pal/animall_360_analysis)
+**Focus:** Product · Customer · Management Insights
+
+🔗 [Explore Project](https://github.com/abhay-pal/animall_360_analysis)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Zepto 360° Operations
-**Operations Intelligence Dashboard**
+**Operations Director Dashboard**
 
-- Operational KPIs
-- Location-level analysis
-- Pendency & productivity
-- Leadership-level visibility
+Leadership-focused operations view covering KPIs, locations, productivity and pendency.
 
-🔗 [View Repository](https://github.com/abhay-pal/zepto_360_view_ops)
+**Focus:** Ops · Location · Pendency · Leadership
+
+🔗 [Explore Project](https://github.com/abhay-pal/zepto_360_view_ops)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="100%" colspan="2" valign="top">
 
 ### 🏢 Executive Decision Intelligence
-**Leadership Analytics Platform**
+**Leadership Analytics Platform for Terminal Operations**
 
-- Revenue & billing KPIs
-- SLA & productivity
-- Customer service metrics
-- Operational exceptions
+An executive decision system covering revenue, billing, SLA, productivity, customer service and operational exceptions.
 
-🔗 [View Repository](https://github.com/abhay-pal/Transworld_Terminals_Executive_Decision_Intelligence)
+**Focus:** CEO Dashboard · Revenue · Billing · SLA · Exceptions · Decision Intelligence
 
-</td>
-<td width="50%" valign="top">
-
-### 📈 Analytics Portfolio
-**Business + Data + Decision Making**
-
-My projects focus on one thing:
-
-**Turning raw data into decisions that teams can actually use.**
+🔗 [Explore Project](https://github.com/abhay-pal/Transworld_Terminals_Executive_Decision_Intelligence)
 
 </td>
 </tr>
@@ -180,28 +236,28 @@ My projects focus on one thing:
 
 ---
 
-# 🧩 Featured Development Projects
+# 💻 Featured Product & Development Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧾 POS System
-Custom POS and billing workflow for retail / food businesses.
+### 🧾 Smart POS System
+Custom POS / billing system for retail and food businesses.
 
-**Includes:** billing, customer flow, products, sales, reporting and operational workflows.
+**Capabilities:** Billing · Products · Customers · Udhar/Credit · Reporting · Analytics · Printing
 
-🔗 [View POS Project](https://github.com/abhay-pal/POS_chatru)
+🔗 [Explore POS](https://github.com/abhay-pal/POS_chatru)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏭 ERP Platform
-Custom ERP-style application for business operations.
+### 🏭 Custom ERP Platform
+Business ERP for operational and finance workflows.
 
-**Includes:** masters, invoicing, reports, analytics and admin workflows.
+**Capabilities:** Masters · Invoicing · GST · Customer Management · Reports · Analytics · Role-based Access
 
-🔗 [View ERP Project](https://github.com/abhay-pal/sunrise_erp)
+🔗 [Explore ERP](https://github.com/abhay-pal/sunrise_erp)
 
 </td>
 </tr>
@@ -210,17 +266,21 @@ Custom ERP-style application for business operations.
 <td width="50%" valign="top">
 
 ### 🏥 Medical Business System
-Business application for healthcare / medical operations.
+A business application designed for healthcare / medical operations.
 
-🔗 [View Project](https://github.com/abhay-pal/CP_Medical_System)
+**Focus:** Business Workflow · Billing · Operations · Internal Tools
+
+🔗 [Explore Project](https://github.com/abhay-pal/CP_Medical_System)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔐 DSC JSON Auto Signer
-Desktop/business automation utility for repetitive JSON signing workflows.
+Automation utility for repetitive JSON digital-signing workflows.
 
-🔗 [View Project](https://github.com/abhay-pal/DSC-JSON-Auto-Signer)
+**Focus:** Automation · File Processing · DSC Workflow · Productivity
+
+🔗 [Explore Project](https://github.com/abhay-pal/DSC-JSON-Auto-Signer)
 
 </td>
 </tr>
@@ -232,86 +292,79 @@ Desktop/business automation utility for repetitive JSON signing workflows.
 
 <div align="center">
 
-### Build. Automate. Scale.
+## **Build. Automate. Scale.**
 
-**Custom software and automation for businesses that have outgrown spreadsheets and manual processes.**
+### Business software designed around the way your team actually works.
 
 </div>
 
-### What I Can Build
+I use my **Business Analyst mindset + Data Analyst skills + development capability** to build solutions that solve real operating problems instead of generic software.
 
-| Business Need | Solution |
+| Your Business Problem | What I Can Build |
 |---|---|
-| Manual billing / counter operations | **POS & Billing System** |
-| Disconnected business processes | **Custom ERP** |
-| Lead tracking problems | **CRM / Lead Management** |
-| Manual reports | **Automated Dashboards & MIS** |
-| Repetitive office work | **Business Automation** |
-| Management visibility | **CEO / Leadership Analytics** |
-| Business online presence | **Modern Website / Web App** |
-| Unique internal workflow | **Custom Software Tool** |
-
-🔗 **TriNova Tech:** [github.com/abhay-pal/trinova_tech](https://github.com/abhay-pal/trinova_tech)
-
----
-
-## 💼 Professional Focus
-
-### 📊 Data Analyst
-Find patterns, measure performance and explain what is happening.
-
-### 🧩 Business Analyst
-Understand requirements, map processes and define what should be built.
-
-### 💻 Solution Builder
-Create dashboards, automations and software that solve the problem end-to-end.
-
----
-
-## 🎯 Areas I Enjoy Working On
-
-- Logistics & Supply Chain
-- Operations Analytics
-- Sales & Customer Analytics
-- Performance Management
-- Process Automation
-- Retail / POS Systems
-- ERP & Internal Business Tools
-- Leadership Dashboards
-- Product & Business Analytics
-
----
-
-## 📊 GitHub Snapshot
+| Counter billing is manual | **POS & Billing System** |
+| Teams work across disconnected sheets | **Custom ERP** |
+| Leads are getting lost | **CRM / Lead Management** |
+| Reports take hours every day | **Automated MIS & Dashboards** |
+| Teams repeat the same task manually | **Business Automation** |
+| Leadership lacks visibility | **CEO / Decision Intelligence Dashboard** |
+| Business needs a professional digital presence | **Website / Web Application** |
+| Existing software does not fit the workflow | **Custom Internal Tool** |
+| Data exists but decisions are slow | **Analytics & BI Platform** |
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhay-pal&show_icons=true&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-pal&layout=compact&hide_border=true" />
+[![Explore TriNova](https://img.shields.io/badge/Explore-TriNova%20Tech-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay-pal/trinova_tech)
+
+</div>
+
+---
+
+## 🏭 Domains I Work Best With
+
+<div align="center">
+
+**Logistics & Supply Chain** · **Operations** · **Retail** · **Healthcare** · **Sales** · **Finance Operations** · **Customer Analytics** · **Performance Management**
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhay-pal&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-pal&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-pal&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=abhay-pal&hide_border=true&theme=transparent&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" />
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Useful
-
-I'm open to conversations around:
-
-**Data Analytics • Business Analysis • Dashboarding • Process Improvement • Automation • POS • ERP • CRM • Custom Web Applications**
+## 🤝 Let's Connect
 
 <div align="center">
 
-### 📬 Connect with me
+### Looking for someone who can understand the business **and** build the solution?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pal-analyst/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/abhay-pal)
+I am open to opportunities and collaborations in:
+
+**Data Analytics · Business Analysis · BI · Process Improvement · Automation · POS · ERP · CRM · Custom Web Apps**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pal-analyst/)
+[![GitHub](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay-pal)
+[![TriNova](https://img.shields.io/badge/Freelance-TriNova%20Tech-2563EB?style=for-the-badge)](https://github.com/abhay-pal/trinova_tech)
 
 <br/><br/>
 
-**Data → Insight → Decision → Automation → Product**
+### **DATA → INSIGHT → DECISION → AUTOMATION → PRODUCT**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,45:1D4ED8,100:0EA5E9" />
 
 </div>
