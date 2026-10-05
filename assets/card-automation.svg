@@ -16,7 +16,7 @@
 <text x="61" y="72" text-anchor="middle" fill="#EAF2FF" font-family="Segoe UI Symbol,Arial" font-size="30">⚡</text>
 <text x="116" y="54" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="24" font-weight="700">Process Automation</text>
 <text x="116" y="82" fill="#8B5CF6" font-family="Inter,Segoe UI,Arial" font-size="13" letter-spacing="1.3">REMOVE REPETITIVE WORK</text>
-<text x="86" y="145" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial" font-size="15">Python • Apps Script • VBA</text><text x="86" y="169" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial" font-size="15">Power Automate • APIs</text><text x="86" y="193" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial" font-size="15">Workflow & Reporting Automation</text>
+<text x="86" y="145" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial" font-size="15">Python • Apps Script • VBA</text><text x="86" y="169" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial" font-size="15">Power Automate • APIs</text><text x="86" y="193" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial" font-size="15">Workflow &amp; Reporting Automation</text>
 <path d="M86 245 H430" stroke="#8B5CF6" stroke-opacity=".18" stroke-width="6" stroke-linecap="round"/>
 <circle r="5" fill="#8B5CF6" filter="url(#g)">
   <animateMotion dur="4.8s" repeatCount="indefinite" path="M86 245 H430"/>
