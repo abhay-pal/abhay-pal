@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="180" x2="1080" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#1E3A8A" stroke-opacity="0.7"/>
+
+  <circle cx="130" cy="65" r="90" fill="#0EA5E9" fill-opacity="0.05">
+    <animate attributeName="r" values="75;105;75" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="300" r="115" fill="#7C3AED" fill-opacity="0.05">
+    <animate attributeName="r" values="95;125;95" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="62" text-anchor="middle" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">FROM BUSINESS PROBLEM TO BUSINESS IMPACT</text>
+  <text x="600" y="94" text-anchor="middle" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">DATA • ANALYSIS • REQUIREMENTS • AUTOMATION • PRODUCT</text>
+
+  <path id="route" d="M145 198 C260 128 345 252 455 190 C565 128 660 252 765 190 C870 128 960 236 1055 178" stroke="url(#line)" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.65"/>
+  <path d="M145 198 C260 128 345 252 455 190 C565 128 660 252 765 190 C870 128 960 236 1055 178" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.06"/>
+
+  <g filter="url(#glow)">
+    <circle r="7" fill="#7DD3FC">
+      <animateMotion dur="4.8s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#route"/>
+      </animateMotion>
+    </circle>
+    <circle r="5" fill="#60A5FA">
+      <animateMotion dur="4.8s" begin="-1.6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#route"/>
+      </animateMotion>
+    </circle>
+    <circle r="4" fill="#A78BFA">
+      <animateMotion dur="4.8s" begin="-3.2s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#route"/>
+      </animateMotion>
+    </circle>
+  </g>
+
+  <g>
+    <g transform="translate(135 198)">
+      <circle r="48" fill="#0B2134" stroke="#38BDF8" stroke-width="2"/>
+      <circle r="48" stroke="#38BDF8" stroke-width="5" opacity="0.12">
+        <animate attributeName="r" values="48;57;48" dur="2.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.18;0.02;0.18" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <text y="-4" text-anchor="middle" fill="#7DD3FC" font-family="Inter,Arial" font-size="15" font-weight="700">DATA</text>
+      <text y="18" text-anchor="middle" fill="#94A3B8" font-family="Inter,Arial" font-size="11">SQL • Python</text>
+    </g>
+
+    <g transform="translate(455 190)">
+      <circle r="48" fill="#0C1D39" stroke="#3B82F6" stroke-width="2"/>
+      <circle r="48" stroke="#3B82F6" stroke-width="5" opacity="0.12">
+        <animate attributeName="r" values="48;57;48" dur="2.8s" begin="-0.7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.18;0.02;0.18" dur="2.8s" begin="-0.7s" repeatCount="indefinite"/>
+      </circle>
+      <text y="-4" text-anchor="middle" fill="#93C5FD" font-family="Inter,Arial" font-size="15" font-weight="700">ANALYZE</text>
+      <text y="18" text-anchor="middle" fill="#94A3B8" font-family="Inter,Arial" font-size="11">KPI • RCA • BI</text>
+    </g>
+
+    <g transform="translate(765 190)">
+      <circle r="48" fill="#131A3B" stroke="#6366F1" stroke-width="2"/>
+      <circle r="48" stroke="#6366F1" stroke-width="5" opacity="0.12">
+        <animate attributeName="r" values="48;57;48" dur="3s" begin="-1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.18;0.02;0.18" dur="3s" begin="-1.2s" repeatCount="indefinite"/>
+      </circle>
+      <text y="-4" text-anchor="middle" fill="#A5B4FC" font-family="Inter,Arial" font-size="15" font-weight="700">BUILD</text>
+      <text y="18" text-anchor="middle" fill="#94A3B8" font-family="Inter,Arial" font-size="11">ERP • POS • Apps</text>
+    </g>
+
+    <g transform="translate(1055 178)">
+      <circle r="48" fill="#1C1637" stroke="#8B5CF6" stroke-width="2"/>
+      <circle r="48" stroke="#8B5CF6" stroke-width="5" opacity="0.12">
+        <animate attributeName="r" values="48;57;48" dur="2.7s" begin="-1.7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.18;0.02;0.18" dur="2.7s" begin="-1.7s" repeatCount="indefinite"/>
+      </circle>
+      <text y="-4" text-anchor="middle" fill="#C4B5FD" font-family="Inter,Arial" font-size="15" font-weight="700">IMPACT</text>
+      <text y="18" text-anchor="middle" fill="#94A3B8" font-family="Inter,Arial" font-size="11">Scale • Automate</text>
+    </g>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#94A3B8">
+    <text x="135" y="286" text-anchor="middle">Data Analyst</text>
+    <text x="455" y="286" text-anchor="middle">Business Analyst</text>
+    <text x="765" y="286" text-anchor="middle">Solution Builder</text>
+    <text x="1055" y="286" text-anchor="middle">Business Outcome</text>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle cx="310" cy="147" r="2.2" fill="#38BDF8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="612" cy="230" r="2" fill="#60A5FA">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="915" cy="145" r="2.4" fill="#A78BFA">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="600" y="332" text-anchor="middle" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.5">ABHAY PAL • ANALYTICS × BUSINESS × TECHNOLOGY</text>
+</svg>
