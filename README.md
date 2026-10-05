@@ -1,15 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1D4ED8,100:0EA5E9&text=ABHAY%20PAL&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Automation%20%26%20Product%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0F172A,70:1D4ED8,100:38BDF8&text=ABHAY%20PAL&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Automation%20%26%20Product%20Builder&descAlignY=57&descSize=18&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+data+into+decisions.;Turning+business+problems+into+products.;Building+dashboards%2C+automation%2C+ERP%2C+POS+%26+web+apps." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+data+into+decisions.;Turning+business+problems+into+products.;Building+Dashboards%2C+Automation%2C+ERP%2C+POS+%26+Web+Apps.;Data+%E2%86%92+Insight+%E2%86%92+Decision+%E2%86%92+Automation+%E2%86%92+Product" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pal-analyst/)
-[![GitHub](https://img.shields.io/badge/GitHub-abhay--pal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay-pal)
+[![GitHub](https://img.shields.io/badge/GitHub-abhay--pal-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay-pal)
 [![TriNova Tech](https://img.shields.io/badge/TriNova%20Tech-Build.%20Automate.%20Scale.-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/abhay-pal/trinova_tech)
 ![Profile Views](https://komarev.com/ghpvc/?username=abhay-pal&style=for-the-badge&color=2563eb)
 
@@ -19,13 +17,13 @@
 
 ## 👨‍💼 About Me
 
-I am a **Data Analyst & Business Analyst with 8+ years of experience** across analytics, operations, logistics, product, process improvement and business transformation.
+I am a **Data Analyst & Business Analyst with 8+ years of experience** across analytics, logistics, operations, product, process improvement and business transformation.
 
-My strength is not limited to creating reports. I work end-to-end:
+My strength is end-to-end problem solving:
 
-**Understand the business problem → analyze the data/process → define the solution → build the dashboard, automation or software → validate through UAT → measure business impact.**
+**Business Problem → Requirement Discovery → Data / Process Analysis → RCA → Solution Design → Dashboard / Automation / Software → UAT → Business Impact**
 
-Alongside analytics and BA work, I build practical business software through **TriNova Tech** — including **POS, ERP, CRM, billing, automation, dashboards, internal tools and modern web applications**.
+Alongside analytics and BA work, I build practical software through **TriNova Tech** — including **POS, ERP, CRM, billing, inventory, automation, dashboards, internal tools and web applications**.
 
 ---
 
@@ -33,13 +31,13 @@ Alongside analytics and BA work, I build practical business software through **T
 
 <div align="center">
 
-| 🚀 Impact | 📈 Result |
+| Impact | Result |
 |:--|:--|
 | Reporting Automation | **85+ reports automated** |
 | Manual Effort Reduction | **~45 hours/day saved** |
 | Invoice Accuracy | **98%** |
 | Operational Compliance | **+40% improvement** |
-| Analytics + BA Experience | **8+ years** |
+| Experience | **8+ years** |
 
 </div>
 
@@ -53,36 +51,36 @@ Alongside analytics and BA work, I build practical business software through **T
 
 ### 📊 Data Analyst
 
-SQL deep dives  
-Python analysis  
-Executive dashboards  
-KPI tracking  
-RCA & insights  
-Sales / Ops analytics  
+SQL Deep Dives  
+Python Analysis  
+Executive Dashboards  
+KPI Tracking  
+Root Cause Analysis  
+Sales / Ops Analytics
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🧩 Business Analyst
 
-Requirement discovery  
+Requirement Discovery  
 BRD / FRD / SRS  
-User stories & AC  
-Process mapping  
+User Stories & AC  
+Process Mapping  
 UAT / SIT / RTM  
-Stakeholder management  
+Stakeholder Management
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 💻 Solution Builder
 
-Business automation  
+Business Automation  
 POS / ERP / CRM  
-Internal web apps  
-Role-based systems  
-API integrations  
-Analytics products  
+Internal Web Apps  
+Role-Based Systems  
+API Integrations  
+Analytics Products
 
 </td>
 </tr>
@@ -90,31 +88,7 @@ Analytics products
 
 ---
 
-## 🧠 How I Solve Problems
-
-<div align="center">
-
-**Business Problem**  
-↓  
-**Requirement Discovery**  
-↓  
-**Data + Process Analysis**  
-↓  
-**Root Cause / Opportunity Identification**  
-↓  
-**Solution Design**  
-↓  
-**Dashboard • Automation • ERP • POS • Web App**  
-↓  
-**UAT + Deployment**  
-↓  
-**Business Impact**
-
-</div>
-
----
-
-## 🛠️ Analytics & Business Analysis Stack
+## 🛠️ Analytics & BA Stack
 
 <div align="center">
 
@@ -122,12 +96,12 @@ Analytics products
 
 <br/><br/>
 
-![SQL](https://img.shields.io/badge/SQL-Advanced-0F172A?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20RLS-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
-![Tableau](https://img.shields.io/badge/Tableau-LOD-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboards-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Power%20Query%20%7C%20Pivot-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-0F172A?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20RLS-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
+![Tableau](https://img.shields.io/badge/Tableau-LOD-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboards-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Power%20Query%20%7C%20Pivot-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
@@ -151,11 +125,11 @@ Analytics products
 
 <br/><br/>
 
-![POS](https://img.shields.io/badge/POS-Custom%20Business%20Systems-1D4ED8?style=flat-square)
-![ERP](https://img.shields.io/badge/ERP-Operations%20%26%20Billing-0F766E?style=flat-square)
-![CRM](https://img.shields.io/badge/CRM-Lead%20%26%20Customer%20Workflow-7C3AED?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-Python%20%7C%20APIs-EA580C?style=flat-square)
-![Web Apps](https://img.shields.io/badge/Web%20Apps-Responsive%20Business%20Tools-0369A1?style=flat-square)
+![POS](https://img.shields.io/badge/POS-Custom%20Business%20Systems-1D4ED8?style=for-the-badge)
+![ERP](https://img.shields.io/badge/ERP-Operations%20%26%20Billing-0F766E?style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM-Lead%20%26%20Customer%20Workflow-7C3AED?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Python%20%7C%20APIs-EA580C?style=for-the-badge)
+![Web Apps](https://img.shields.io/badge/Web%20Apps-Responsive%20Business%20Tools-0369A1?style=for-the-badge)
 
 </div>
 
@@ -168,9 +142,7 @@ Analytics products
 <td width="50%" valign="top">
 
 ### 🛒 Blinkit Sales Analysis
-**Sales Performance & BI Dashboard**
-
-Business-focused dashboard covering sales KPIs, category performance, city trends and product insights.
+**Sales Performance & Business Intelligence Dashboard**
 
 **Focus:** Sales · Customer · Category · KPI Analytics
 
@@ -182,22 +154,17 @@ Business-focused dashboard covering sales KPIs, category performance, city trend
 ### 🚚 Employee Performance — Logistics
 **Operational Performance Intelligence**
 
-A logistics performance dashboard focused on SLA, productivity, employee performance and operational visibility.
-
 **Focus:** SLA · Productivity · Operations · Performance
 
 🔗 [Explore Project](https://github.com/abhay-pal/employee-performance-logistics-dashboard)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 Animall 360 Analysis
-**360° Business & Product Intelligence**
-
-A management-level view designed to connect customer, business and operational signals for faster decision making.
+**360° Product & Business Intelligence**
 
 **Focus:** Product · Customer · Management Insights
 
@@ -209,24 +176,19 @@ A management-level view designed to connect customer, business and operational s
 ### ⚡ Zepto 360° Operations
 **Operations Director Dashboard**
 
-Leadership-focused operations view covering KPIs, locations, productivity and pendency.
-
 **Focus:** Ops · Location · Pendency · Leadership
 
 🔗 [Explore Project](https://github.com/abhay-pal/zepto_360_view_ops)
 
 </td>
 </tr>
-
 <tr>
 <td width="100%" colspan="2" valign="top">
 
 ### 🏢 Executive Decision Intelligence
 **Leadership Analytics Platform for Terminal Operations**
 
-An executive decision system covering revenue, billing, SLA, productivity, customer service and operational exceptions.
-
-**Focus:** CEO Dashboard · Revenue · Billing · SLA · Exceptions · Decision Intelligence
+**Focus:** Revenue · Billing · SLA · Productivity · Customer Service · Operational Exceptions
 
 🔗 [Explore Project](https://github.com/abhay-pal/Transworld_Terminals_Executive_Decision_Intelligence)
 
@@ -243,9 +205,9 @@ An executive decision system covering revenue, billing, SLA, productivity, custo
 <td width="50%" valign="top">
 
 ### 🧾 Smart POS System
-Custom POS / billing system for retail and food businesses.
+Custom POS / billing workflow for retail and food businesses.
 
-**Capabilities:** Billing · Products · Customers · Udhar/Credit · Reporting · Analytics · Printing
+**Capabilities:** Billing · Products · Customers · Credit/Udhar · Reports · Analytics · Printing
 
 🔗 [Explore POS](https://github.com/abhay-pal/POS_chatru)
 
@@ -255,20 +217,17 @@ Custom POS / billing system for retail and food businesses.
 ### 🏭 Custom ERP Platform
 Business ERP for operational and finance workflows.
 
-**Capabilities:** Masters · Invoicing · GST · Customer Management · Reports · Analytics · Role-based Access
+**Capabilities:** Masters · Invoicing · GST · Customer Management · Reports · Analytics · Role-Based Access
 
 🔗 [Explore ERP](https://github.com/abhay-pal/sunrise_erp)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🏥 Medical Business System
-A business application designed for healthcare / medical operations.
-
-**Focus:** Business Workflow · Billing · Operations · Internal Tools
+Business application for healthcare / medical operations.
 
 🔗 [Explore Project](https://github.com/abhay-pal/CP_Medical_System)
 
@@ -277,8 +236,6 @@ A business application designed for healthcare / medical operations.
 
 ### 🔐 DSC JSON Auto Signer
 Automation utility for repetitive JSON digital-signing workflows.
-
-**Focus:** Automation · File Processing · DSC Workflow · Productivity
 
 🔗 [Explore Project](https://github.com/abhay-pal/DSC-JSON-Auto-Signer)
 
@@ -293,24 +250,20 @@ Automation utility for repetitive JSON digital-signing workflows.
 <div align="center">
 
 ## **Build. Automate. Scale.**
-
 ### Business software designed around the way your team actually works.
 
 </div>
 
-I use my **Business Analyst mindset + Data Analyst skills + development capability** to build solutions that solve real operating problems instead of generic software.
-
-| Your Business Problem | What I Can Build |
+| Business Problem | Solution |
 |---|---|
-| Counter billing is manual | **POS & Billing System** |
-| Teams work across disconnected sheets | **Custom ERP** |
-| Leads are getting lost | **CRM / Lead Management** |
-| Reports take hours every day | **Automated MIS & Dashboards** |
-| Teams repeat the same task manually | **Business Automation** |
+| Manual billing / counter operations | **POS & Billing System** |
+| Disconnected sheets and workflows | **Custom ERP** |
+| Leads getting lost | **CRM / Lead Management** |
+| Manual daily reporting | **Automated MIS & Dashboards** |
+| Repetitive office work | **Business Automation** |
 | Leadership lacks visibility | **CEO / Decision Intelligence Dashboard** |
-| Business needs a professional digital presence | **Website / Web Application** |
-| Existing software does not fit the workflow | **Custom Internal Tool** |
-| Data exists but decisions are slow | **Analytics & BI Platform** |
+| Business needs digital presence | **Website / Web Application** |
+| Standard tools do not fit workflow | **Custom Internal Tool** |
 
 <div align="center">
 
@@ -320,11 +273,11 @@ I use my **Business Analyst mindset + Data Analyst skills + development capabili
 
 ---
 
-## 🏭 Domains I Work Best With
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-**Logistics & Supply Chain** · **Operations** · **Retail** · **Healthcare** · **Sales** · **Finance Operations** · **Customer Analytics** · **Performance Management**
+<img src="https://github-profile-trophy.vercel.app/?username=abhay-pal&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 
 </div>
 
@@ -345,26 +298,48 @@ I use my **Business Analyst mindset + Data Analyst skills + development capabili
 
 ---
 
-## 🤝 Let's Connect
+## 📉 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhay-pal&bg_color=00000000&color=38BDF8&line=2563EB&point=7DD3FC&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhay-pal/abhay-pal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhay-pal/abhay-pal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhay-pal/abhay-pal/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let’s Connect
 
 <div align="center">
 
 ### Looking for someone who can understand the business **and** build the solution?
 
-I am open to opportunities and collaborations in:
-
 **Data Analytics · Business Analysis · BI · Process Improvement · Automation · POS · ERP · CRM · Custom Web Apps**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pal-analyst/)
-[![GitHub](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay-pal)
-[![TriNova](https://img.shields.io/badge/Freelance-TriNova%20Tech-2563EB?style=for-the-badge)](https://github.com/abhay-pal/trinova_tech)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pal-analyst/)
+[![GitHub](https://img.shields.io/badge/Explore-My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay-pal)
+[![TriNova Tech](https://img.shields.io/badge/Freelance-TriNova%20Tech-2563EB?style=for-the-badge)](https://github.com/abhay-pal/trinova_tech)
 
 <br/><br/>
 
 ### **DATA → INSIGHT → DECISION → AUTOMATION → PRODUCT**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,45:1D4ED8,100:0EA5E9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,35:0F172A,70:1D4ED8,100:38BDF8" />
 
 </div>
