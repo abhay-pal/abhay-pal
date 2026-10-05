@@ -6,6 +6,10 @@
 
 <br/><br/>
 
+<img width="100%" src="https://raw.githubusercontent.com/abhay-pal/abhay-pal/master/assets/animated-data-flow.svg" alt="Animated analytics to product journey" />
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pal-analyst/)
 [![GitHub](https://img.shields.io/badge/GitHub-abhay--pal-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay-pal)
 [![TriNova Tech](https://img.shields.io/badge/TriNova%20Tech-Build.%20Automate.%20Scale.-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/abhay-pal/trinova_tech)
